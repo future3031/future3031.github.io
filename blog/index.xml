@@ -8,12 +8,21 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://future3031.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Intro Typora </title>
+      <link>https://future3031.github.io/blog/typora_ex/</link>
+      <pubDate>Thu, 18 Feb 2021 16:40:47 +0800</pubDate>
+      
+      <guid>https://future3031.github.io/blog/typora_ex/</guid>
+      <description>Typora 所見及所得  簡單的撰寫模式 輕鬆寫好程式語言 就像寫文章一樣輕鬆  </description>
+    </item>
+    
+    <item>
       <title>菸酒生 LIFE</title>
       <link>https://future3031.github.io/blog/researcher-life/</link>
       <pubDate>Thu, 18 Feb 2021 16:40:47 +0800</pubDate>
       
       <guid>https://future3031.github.io/blog/researcher-life/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,30 +36,21 @@
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-10/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>排球少年 觀後心得</title>
+      <link>https://future3031.github.io/blog/haikyuu-ani/</link>
+      <pubDate>Fri, 05 Feb 2021 10:07:47 +0800</pubDate>
       
-      <guid>https://future3031.github.io/blog/post-10/</guid>
+      <guid>https://future3031.github.io/blog/haikyuu-ani/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-11/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>大學牲</title>
+      <link>https://future3031.github.io/blog/college-life/</link>
+      <pubDate>Thu, 17 Dec 2020 10:07:47 +0800</pubDate>
       
-      <guid>https://future3031.github.io/blog/post-11/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-12/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://future3031.github.io/blog/post-12/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://future3031.github.io/blog/college-life/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -60,87 +60,6 @@
       
       <guid>https://future3031.github.io/blog/post-13/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-2/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://future3031.github.io/blog/post-2/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-3/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://future3031.github.io/blog/post-3/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-4/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://future3031.github.io/blog/post-4/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-5/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://future3031.github.io/blog/post-5/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-6/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://future3031.github.io/blog/post-6/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-7/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://future3031.github.io/blog/post-7/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-8/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://future3031.github.io/blog/post-8/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://future3031.github.io/blog/post-9/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://future3031.github.io/blog/post-9/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://future3031.github.io/blog/typora_test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://future3031.github.io/blog/typora_test/</guid>
-      <description>Typora 所見及所得  簡單的撰寫模式 輕鬆寫好程式語言 就像寫文章一樣輕鬆  </description>
     </item>
     
   </channel>

@@ -6,7 +6,16 @@
     <description>Recent content in Programming on Ssuyin | 小葉 </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 14 Feb 2021 11:18:00 +8600</lastBuildDate><atom:link href="https://future3031.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 16:40:47 +0800</lastBuildDate><atom:link href="https://future3031.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro Typora </title>
+      <link>https://future3031.github.io/blog/typora_ex/</link>
+      <pubDate>Thu, 18 Feb 2021 16:40:47 +0800</pubDate>
+      
+      <guid>https://future3031.github.io/blog/typora_ex/</guid>
+      <description>Typora 所見及所得  簡單的撰寫模式 輕鬆寫好程式語言 就像寫文章一樣輕鬆  </description>
+    </item>
+    
     <item>
       <title>示範Markdown語法</title>
       <link>https://future3031.github.io/blog/markdown-ex/</link>
