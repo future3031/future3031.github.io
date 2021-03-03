@@ -6,23 +6,14 @@
     <description>Recent content in Programming on Ssuyin | 小葉 </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 18 Feb 2021 16:40:47 +0800</lastBuildDate><atom:link href="https://future3031.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Intro Typora </title>
-      <link>https://future3031.github.io/blog/typora_ex/</link>
-      <pubDate>Thu, 18 Feb 2021 16:40:47 +0800</pubDate>
-      
-      <guid>https://future3031.github.io/blog/typora_ex/</guid>
-      <description>Typora 所見及所得  簡單的撰寫模式 輕鬆寫好程式語言 就像寫文章一樣輕鬆  就這樣?</description>
-    </item>
-    
+    <lastBuildDate>Sun, 14 Feb 2021 11:18:00 +8600</lastBuildDate><atom:link href="https://future3031.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>示範Markdown語法</title>
       <link>https://future3031.github.io/blog/markdown-ex/</link>
       <pubDate>Sun, 14 Feb 2021 11:18:00 +8600</pubDate>
       
       <guid>https://future3031.github.io/blog/markdown-ex/</guid>
-      <description>H1標題 H2標題 H3標題 H4標題 H5標題 H6標題 內文 粗體 斜體
+      <description>H1標題－很純很純的MD語法 H2標題 H3標題 H4標題 H5標題 H6標題 內文 粗體 斜體
  有序序列1  內縮效果：前面要打四個blank。  繼續內縮：前面一樣要有四個blank。     有序序列2   無序序列1  內縮效果：前面要打四個blank。   無序序列2   引言</description>
     </item>
     
