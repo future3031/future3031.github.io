@@ -44,16 +44,6 @@
     </item>
     
     <item>
-      <title>科學哲學－演繹法、歸納法、否證論</title>
-      <link>https://future3031.github.io/blog/philosophy/</link>
-      <pubDate>Tue, 02 Mar 2021 19:30:47 +0800</pubDate>
-      
-      <guid>https://future3031.github.io/blog/philosophy/</guid>
-      <description>Deduction演繹法  若前提是正確的，結論必然也是正確的。 前提以蘊含結論。 A prior knowledge  演繹法問題：前提必須是唯真。
-Induction 歸納法  透過觀察來推理結論。 A posteriori knowledge 自然的恆定性。  歸納法問題：很常發生前提是對的，但結論可能是錯的。</description>
-    </item>
-    
-    <item>
       <title>示範Markdown語法</title>
       <link>https://future3031.github.io/blog/markdown-ex/</link>
       <pubDate>Sun, 14 Feb 2021 11:18:00 +8600</pubDate>
