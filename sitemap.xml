@@ -78,26 +78,6 @@
   </url>
   
   <url>
-    <loc>https://future3031.github.io/tags/markdown/</loc>
-    <lastmod>2021-02-14T11:18:00+86:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://future3031.github.io/categories/programming/</loc>
-    <lastmod>2021-02-14T11:18:00+86:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://future3031.github.io/tags/website/</loc>
-    <lastmod>2021-02-14T11:18:00+86:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://future3031.github.io/blog/markdown-ex/</loc>
-    <lastmod>2021-02-14T11:18:00+86:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://future3031.github.io/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
@@ -115,6 +95,16 @@
   <url>
     <loc>https://future3031.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://future3031.github.io/categories/intern/</loc>
+    <lastmod>2018-07-30T16:40:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://future3031.github.io/blog/intern-peopo/</loc>
+    <lastmod>2018-07-30T16:40:47+08:00</lastmod>
   </url>
   
 </urlset>
