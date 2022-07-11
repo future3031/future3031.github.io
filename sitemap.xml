@@ -4,16 +4,26 @@
   
   <url>
     <loc>https://future3031.github.io/categories/</loc>
-    <lastmod>2022-06-21T23:25:47+08:00</lastmod>
+    <lastmod>2022-07-11T16:40:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://future3031.github.io/categories/intern/</loc>
-    <lastmod>2022-06-21T23:25:47+08:00</lastmod>
+    <loc>https://future3031.github.io/categories/life/</loc>
+    <lastmod>2022-07-11T16:40:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://future3031.github.io/</loc>
+    <lastmod>2022-07-11T16:40:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://future3031.github.io/blog/life-postgrad/</loc>
+    <lastmod>2022-07-11T16:40:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://future3031.github.io/categories/intern/</loc>
     <lastmod>2022-06-21T23:25:47+08:00</lastmod>
   </url>
   
@@ -33,11 +43,6 @@
   </url>
   
   <url>
-    <loc>https://future3031.github.io/tags/education/</loc>
-    <lastmod>2021-08-17T01:31:47+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://future3031.github.io/blog/reading-learnforfuture/</loc>
     <lastmod>2021-08-17T01:31:47+08:00</lastmod>
   </url>
@@ -45,16 +50,6 @@
   <url>
     <loc>https://future3031.github.io/categories/reading/</loc>
     <lastmod>2021-08-17T01:31:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://future3031.github.io/tags/</loc>
-    <lastmod>2021-08-17T01:31:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://future3031.github.io/tags/atomic-habits/</loc>
-    <lastmod>2021-06-10T01:31:47+08:00</lastmod>
   </url>
   
   <url>
@@ -68,16 +63,6 @@
   </url>
   
   <url>
-    <loc>https://future3031.github.io/tags/mindset/</loc>
-    <lastmod>2021-05-18T16:40:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://future3031.github.io/tags/research/</loc>
-    <lastmod>2021-03-03T11:07:47+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://future3031.github.io/categories/research/</loc>
     <lastmod>2021-03-03T11:07:47+08:00</lastmod>
   </url>
@@ -88,12 +73,7 @@
   </url>
   
   <url>
-    <loc>https://future3031.github.io/blog/growingup/</loc>
-    <lastmod>2021-03-02T19:30:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://future3031.github.io/categories/life/</loc>
+    <loc>https://future3031.github.io/blog/life-growingup/</loc>
     <lastmod>2021-03-02T19:30:47+08:00</lastmod>
   </url>
   
@@ -115,6 +95,10 @@
   <url>
     <loc>https://future3031.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://future3031.github.io/tags/</loc>
   </url>
   
 </urlset>
